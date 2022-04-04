@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e31a4ba5523b77847a1186fde0371601, type: 3}
+  m_Name: progression_two
+  m_EditorClassIdentifier: 
+  doClass:
+  - dialogueClassSpeaker: ?..
+    dialogueClassText: '"I hope you already realised..."'
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: '"Realised what?"'
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ?..
+    dialogueClassText: '"I''ve read some books, and find some information"'
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ?..
+    dialogueClassText: "\"This world is called \"F\xFAchsia\". The other name for
+      this is a *World of Color*\"."
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: So that's why it so absurd.
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ?..
+    dialogueClassText: '"But the worst part is related to us."'
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: '"To us? What do you mean?"'
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ?..
+    dialogueClassText: "\"People from Earth, that spent too much time in F\xFAchsia,
+      eventually receive a desease.\""
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ?..
+    dialogueClassText: "\"This desease is called *F\xFAchsia Desease*. It can lead
+      to unknown consequences\""
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ?..
+    dialogueClassText: '"And you already got it."'
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: '"Um... why?"'
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ?..
+    dialogueClassText: '"Your hand! Haven''t you noticed anything strange?"'
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ?..
+    dialogueClassText: '"Your hand! Haven''t you noticed anything strange?"'
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ?..
+    dialogueClassText: '"Now, it has color! You''re definitely ill!"'
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ?..
+    dialogueClassText: '"Why won''t you listen to me, ??^&&^?&"'
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: Her screams made me feel strange. Do I have emotions now?
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: '"Hey, don''t worry. I''ll find something to cure it."'
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ?..
+    dialogueClassText: '"The only way to find a cure is to visit Second Chamber."'
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: Another strange word.
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ?..
+    dialogueClassText: '"Second Chamber is a sub-world of Fuchsia. You can access
+      it through The Key"'
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: Huh. Now, I don't understand anything.
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: '"Ok, I''ll find it. Trust me."'
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ?..
+    dialogueClassText: '"Thank you, and... good luck. I''ll be here."'
+    dialogueTextSpeed: 0.05

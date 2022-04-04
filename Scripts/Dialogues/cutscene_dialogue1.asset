@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e31a4ba5523b77847a1186fde0371601, type: 3}
+  m_Name: cutscene_dialogue1
+  m_EditorClassIdentifier: 
+  doClass:
+  - dialogueClassSpeaker: ???
+    dialogueClassText: Hi.
+    dialogueTextSpeed: 0.5
+  - dialogueClassSpeaker: ???
+    dialogueClassText: My name is ??^&&^?&.
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: I live on Earth, in a completely normal country, completely
+      normal city...
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: ...working on a completely normal job, living in a completely
+      normal house.
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: 'I can''t say too much about myself. '
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: Living in a Dark World, world without colors and emotions,
+      it's a normal behaviour.
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: I don't have too much friends. My best friend is...
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ?..
+    dialogueClassText: '"Hey, ??^&&^?&! How''s it going?"'
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: Yeah. She... she looks just like everyone else.
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: 'But it feels like she acts completely different. '
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: Perhaps it's just my feeling. Anyway...
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: One day, we found something strange.
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: Is it portal? Doorway to something else?
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: Anyway, the only thing that mattered this moment - color.
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: Strange, warm color, which attracted us.
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: We wanted to know, what is this.
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ?..
+    dialogueClassText: '"It feels dangerous... should we really go there?"'
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: ???
+    dialogueClassText: There's no turning back. I want to know, what lies behind
+      this portal.
+    dialogueTextSpeed: 0.05
+  - dialogueClassSpeaker: 
+    dialogueClassText: 
+    dialogueTextSpeed: 0.05
